@@ -1,0 +1,7 @@
+.button {
+    -fx-font-size: 14px;
+    -fx-min-width: 100px;
+    -fx-max-width: 100px;
+    -fx-min-height: 30px;
+    -fx-max-height: 30px;
+}
